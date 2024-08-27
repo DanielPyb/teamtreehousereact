@@ -1,2 +1,2 @@
 # teamtreehousereact
-Project from the treehouse React Track
+Projects from the treehouse React Track
